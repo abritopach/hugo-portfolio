@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://abritopach.github.io/"
 languageCode = "en-us"
-title = "Hugo Artists Theme"
+title = "abritopach portfolio"
 theme = "hugo-artists-theme"
 
 [params]
@@ -86,7 +86,7 @@ theme = "hugo-artists-theme"
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
 			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
+			link = "//twitter.com/adrianbritopach"
 
 		# [[params.contact.social]]
 		#	icon = "dribbble"
@@ -102,15 +102,15 @@ theme = "hugo-artists-theme"
 
 		[[params.contact.social]]
 			icon = "google-plus"
-			link = "//www.youtube.com/DevTipsForDesigners"
+			link = "//plus.google.com/118316880026572241335"
 
 		[[params.contact.social]]
 			icon = "linkedin"
 			link = "//es.linkedin.com/in/adrián-brito-pacheco-68bba928"
 			
 		[[params.contact.social]]
-		icon = "github"
-		link = "//github.com/abritopach"
+			icon = "github"
+			link = "//github.com/abritopach"
 
 
 	# [params.form]

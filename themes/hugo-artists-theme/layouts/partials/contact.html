@@ -3,7 +3,7 @@
     {{ with .Site.Params.contact.title }}<h3 id="contact">{{ . }}</h3>{{ end }}
     <div class="social-links">
         {{ range .Site.Params.contact.social }}
-        <a href="{{ .link }}" class="icon-{{ .icon }}"></a>
+        <a href="{{ .link }}" class="icon-{{ .icon }}" target="_blank"></a>
         {{ end }}
     </div>
     <hr class="bar">
